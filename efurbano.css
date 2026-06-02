@@ -1,0 +1,217 @@
+.efurbano {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #645166 !important;
+        font-weight: 400;
+
+        span {
+            color: #f78407;
+        }
+    }
+
+    b,
+    strong {
+        color: #f78407;
+    }
+
+    .highlight {
+        color: #645166 !important;
+    }
+
+    .call2action {
+        color: #4e0754;
+        font-style: italic;
+    }
+
+    .bg {
+        background-color: #4e0754;
+        color: white !important;
+        padding: 20px;
+        margin: 30px 0;
+    }
+
+    .borde {
+        border-bottom: 2px solid #f78407;
+        padding-bottom: 30px;
+        margin: 30px 0;
+    }
+
+    .banner {
+        padding: 20px 0;
+        min-height: 250px;
+
+        .titulo {
+            background-color: rgba(78, 7, 84, 0.8);
+            color: white !important;
+            padding: 10px 20px;
+            margin-bottom: 10px;
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                color: white !important;
+            }
+        }
+
+        p {
+            background-color: rgba(78, 7, 84, 0.8);
+            color: white !important;
+            padding: 10px 20px;
+            margin: 20px;
+            display: inline-block;
+            max-width: 80%;
+        }
+
+        ;
+    }
+
+    .bg-gris,
+    .objetivo,
+    .resumen {
+        background-color: #f4f0f5;
+    }
+
+    .resumen {
+        .titulo {
+            color: #f78407;
+        }
+
+        ol,
+        ul,
+        p {
+            margin-left: 70px;
+        }
+
+        .titulo::before {
+            width: 60px;
+            height: 60px;
+
+        }
+
+        .contenido .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_contenido.png)
+        }
+
+        .habilidades .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_habilidades.png)
+        }
+
+        .duracion .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_duracion.png)
+        }
+    }
+
+    .objetivo {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_objetivo.png);
+    }
+
+    .ejemplo {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_ejemplo.png);
+    }
+
+    .tips::before {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_idea.png);
+
+    }
+
+    .bg-oscuro,
+    .bg-img-izq {
+        background-color: #645166;
+        color: #f78407 !important;
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        .highlight,
+        .call2action {
+            color: #f78407 !important;
+        }
+    }
+
+    .bg-imagen {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        color: white !important;
+        padding: 20px;
+
+        .col {
+            background-color: rgba(78, 7, 84, 0.8);
+            padding: 20px;
+        }
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        code,
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .bg-textura {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8423/mod_folder/content/0/Urbano/urbano_textura1.jpg);
+        background-repeat: repeat;
+        color: white !important;
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        code,
+        .highlight,
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .importante,
+    .tips {
+        background-color: #645166;
+        color: #f78407 !important;
+
+        a {
+            color: white !important;
+            text-decoration: underline !important;
+        }
+    }
+
+    .ejemplo {
+        background-color: #f4f0f5;
+
+    }
+
+    .accordion {
+        .btn-link {
+            color: #f78407 !important;
+        }
+
+        .btn-link.btn-primary {
+            color: #f78407 !important;
+        }
+    }
+
+    .icono.fondo {
+        background-color: #f78407 !important;
+    }
+
+    .icono.fondo::before {
+        filter: invert(100%);
+    }
+}
