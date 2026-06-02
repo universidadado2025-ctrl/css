@@ -1,0 +1,126 @@
+.embus {
+    color: var(--color-embus-principal) !important;
+
+    h1 {
+        color: var(--color-embus-principal) !important;
+        font-size: 64px;
+        font-weight: 200;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5 {
+        color: #e841d9 !important;
+    }
+
+    h2,
+    h3 {
+        font-weight: 200;
+    }
+
+    h3 {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+
+    .btn-primary {
+        background-color: #8cc896 !important;
+        border-color: #8cc896 !important;
+    }
+
+    h2.bg {
+        background-color: var(--color-embus-principal) !important;
+        color: #fff !important;
+        padding: 10px;
+    }
+
+    video {
+        width: 100%;
+        height: auto;
+    }
+
+    .break {
+        border: dashed 1px var(--color-embus-secundario);
+    }
+
+    .bg-gradiente {
+        background: linear-gradient(180deg, #2180c3 0%, #000000 100%);
+
+        color: white !important;
+
+        h2,
+        h3,
+        h4,
+        h5 {
+            color: #fff !important;
+        }
+    }
+
+    .bg-textura-embus {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/33/mod_folder/content/0/EMBUS/textura_embus.svg);
+        background-repeat: no-repeat;
+        background-position: bottom left 10px;
+        background-size: 150px auto;
+    }
+
+    .bg-claro {
+        background-color: var(--color-embus-claro);
+        padding: 20px !important;
+    }
+
+    .materiales {
+        background-color: var(--color-embus-claro);
+        padding: 20px;
+        padding-bottom: 80px;
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/33/mod_folder/content/0/EMBUS/wave3_embus.svg);
+        background-repeat: no-repeat;
+        background-position: bottom 10px right;
+        background-size: auto 60px;
+
+        ul {
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding-left: 25px;
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/33/mod_folder/content/0/EMBUS/doc_embus.svg);
+            background-repeat: no-repeat;
+            background-position: left center;
+            background-size: contain;
+            list-style: none;
+        }
+    }
+
+    .tabla_contenidos {
+        font-size: small;
+
+        .fila1 {
+            background-color: var(--color-embus-claro);
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .fila2 {
+            background-color: #e2ecf0;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .tema {
+            font-weight: 700;
+        }
+    }
+}
+
+@media (min-width: 767.98px) {
+    .embus {
+        h2.bg {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/33/mod_folder/content/0/EMBUS/elemento2_embus.svg);
+            background-repeat: no-repeat;
+            background-position: center right 10px;
+            background-size: contain;
+        }
+    }
+}

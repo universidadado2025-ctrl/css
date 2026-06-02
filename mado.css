@@ -1,0 +1,226 @@
+.mado {
+
+    h1,
+    h3,
+    .highlight {
+        color: var(--color-mado-morado) !important;
+    }
+
+    h2,
+    h4,
+    b,
+    strong,
+    a,
+    .call2action {
+        color: var(--color-mado-rojo) !important;
+    }
+
+    h1,
+    h2 {
+        font-weight: 200;
+    }
+
+    .break {
+        border-top: 1px solid var(--color-mado-rojo);
+    }
+
+    .bg {
+        background-color: var(--color-mado-morado) !important;
+        color: white !important;
+    }
+
+    .borde {
+        border-bottom: 2px solid var(--color-mado-rojo);
+        padding-bottom: 30px;
+        margin: 30px 0;
+    }
+
+    .card {
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: var(--color-mado-rojo) !important;
+        }
+    }
+
+    .bg-gris {
+        background-color: #e6e6e6;
+    }
+
+    .bg-oscuro,
+    .bg-img-izq {
+        background-color: var(--color-mado-morado) !important;
+        color: white !important;
+
+        h1,
+        h3,
+        .highlight {
+            color: white !important;
+        }
+    }
+
+    .bg-imagen {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        color: white !important;
+        padding: 20px;
+
+        .col {
+            background-color: rgba(78, 7, 84, 0.8);
+            padding: 20px;
+        }
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        code,
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .repaso {
+
+        .row {
+            background-color: white;
+        }
+
+        .head {
+            border-bottom: thin solid var(--color-mado-rojo);
+        }
+
+        h2::before {
+            content: "Repaso y conclusiones";
+        }
+
+        .cierre {
+            border-top: none;
+            background-color: var(--color-mado-rojo);
+            color: white !important;
+
+            b,
+            strong {
+                color: white !important;
+            }
+
+            .highlight,
+            .call2action {
+                color: white !important;
+            }
+
+            highlight b,
+            .call2action b {
+                color: white !important;
+            }
+        }
+    }
+
+    .importante,
+    .tips {
+        background-color: var(--color-mado-morado) !important;
+        color: white !important;
+
+        a {
+            color: white !important;
+        }
+
+    }
+
+    .objetivo {
+        background-color: var(--color-mado-rojo) !important;
+        color: white !important;
+        background-size: 120px auto;
+        padding-left: calc(2rem + 120px);
+        align-items: start !important;
+        min-height: 150px;
+
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        .highlight,
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .objetivo {
+        display: flex !important;
+        margin: 0.5rem;
+        background-color: #e2e2e2;
+        background-repeat: no-repeat;
+        background-position: 1rem 1rem;
+        font-size: larger;
+        font-weight: 300;
+    }
+
+    .ejemplo {
+        background-image: var(--icon-globotexto);
+    }
+
+    .tips::before {
+        filter: invert(100%);
+
+    }
+
+    .accordion h5 .btn-link {
+        color: var(--color-mado-morado) !important;
+    }
+
+    .icono.fondo {
+        background-color: var(--color-mado-rojo);
+    }
+
+    .introduccion {
+        .titulo {
+            color: var(--color-mado-rojo);
+            font-weight: 200;
+        }
+
+        .extra {
+            background-color: #e6e6e6;
+
+            .titulo {
+                font-weight: 600;
+            }
+        }
+
+        .material {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: var(--color-mado-rojo);
+            color: white !important;
+
+            .highlight,
+            .call2action,
+            .titulo,
+            a {
+                color: white !important;
+            }
+        }
+    }
+
+    .botones_navegacion {
+
+        a {
+            color: var(--color-mado-rojo);
+        }
+
+        a:hover {
+            background-color: var(--color-mado-morado);
+            color: white !important;
+        }
+    }
+
+}

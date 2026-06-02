@@ -1,0 +1,349 @@
+.efrrhh {
+    color: #5e5e5e !important;
+
+    .bg-gradiente {
+        background: #FFF;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(232, 240, 255, 1) 100%);
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5 {
+        color: #546891 !important;
+        font-weight: 300 !important;
+    }
+
+    h1 {
+        color: #546891 !important;
+        font-weight: 500 !important;
+        font-size: xxx-large;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        font-size: xxx-large;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+        border-bottom: #612267 1px solid;
+    }
+
+    h3 {
+        font-size: xx-large;
+        color: var(--color-rrhh-acento1) !important;
+    }
+
+    h4 {
+        font-size: x-large;
+        color: var(--color-rrhh-acento2) !important;
+        font-weight: 500 !important;
+    }
+
+    h5 {
+        font-size: large;
+        margin-top: 2rem;
+    }
+
+    h2.bg,
+    h3.bg,
+    h4.bg,
+    h5.bg {
+        background-color: var(--color-rrhh-acento1);
+        border: none !important;
+        color: white !important;
+        margin-top: 40px !important;
+        margin-bottom: 40px !important;
+
+        span,
+        b {
+            font-weight: 500;
+        }
+    }
+
+    h2.borde,
+    h3.borde,
+    h4.borde,
+    h5.borde {
+        border-bottom: thin solid var(--color-rrhh-acento2);
+
+        span,
+        b {
+            color: var(--color-rrhh-acento1);
+        }
+    }
+
+    p {
+        text-align: justify !important;
+    }
+
+    .call2action {
+        font-style: italic;
+        color: var(--color-rrhh-acento1) !important;
+        font-weight: 700;
+    }
+
+    .img-fluid {
+        margin-bottom: 20px;
+    }
+
+    b,
+    strong {
+        color: var(--color-rrhh-acento1) !important;
+    }
+
+    .break {
+        border-top: 1px solid #612267;
+    }
+
+    .objetivo {
+        background-color: #E7EDFE;
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/55323/mod_folder/content/0/rrhh_objetivo.png);
+    }
+
+    .ejemplo {
+        background-color: #E7EDFE;
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/55323/mod_folder/content/0/ejemplo01_efrrhh.png);
+    }
+
+    .tips {
+        background-color: var(--color-rrhh-acento2);
+        color: white !important;
+
+        b,
+        strong {
+            color: white !important;
+            font-weight: 500;
+        }
+    }
+
+    .tips::before {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/rrhh_foco-16.svg);
+        left: 35px;
+    }
+
+    .texto-corrido {
+        margin-bottom: 2rem !important;
+
+    }
+
+    .card {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+
+        .btn-primary {
+            background-color: #612267;
+            border-color: #612267;
+        }
+
+        h3 {
+            color: var(--color-rrhh-acento2) !important;
+            font-weight: 600 !important;
+        }
+    }
+
+
+    .accordion {
+        .btn-link {
+            color: #612267 !important;
+        }
+
+        .btn-link.btn-primary {
+            color: #612267 !important;
+        }
+    }
+
+
+
+    .bg-azul,
+    .cierre,
+    .material {
+        background-color: var(--color-rrhh-principal);
+        color: #FFF !important;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+        .highlight {
+            color: white !important;
+        }
+    }
+
+    .bg-azulclaro,
+    .resumen {
+        background-color: #E7EDFE;
+        color: #45609F !important;
+        margin-bottom: 20px;
+
+        h2,
+        h3,
+        h4,
+        h5 {
+            color: #45609F !important;
+        }
+    }
+
+    .introduccion {
+        padding-bottom: 0 !important;
+
+        h2 {
+            border-bottom: none;
+        }
+
+        .break {
+            border: none;
+        }
+
+        .material {
+            margin-bottom: 0;
+
+            a {
+                color: white !important;
+            }
+        }
+
+        .titulo {
+            color: var(--color-rrhh-acento1) !important;
+        }
+
+        .material .titulo {
+            color: white !important;
+        }
+    }
+
+    .resumen {
+
+        .titulo::before {
+            content: "";
+            width: 80px;
+            height: 80px;
+            vertical-align: bottom;
+
+        }
+
+        .contenido .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/55323/mod_folder/content/0/rrhh_contenido.png)
+        }
+
+        .duracion .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/55323/mod_folder/content/0/rrhh_duracion.png)
+        }
+
+        .habilidades .titulo::before {
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/55323/mod_folder/content/0/rrhh_habilidades.png)
+        }
+
+        ol,
+        ul,
+        p {
+            margin-left: 0px;
+        }
+
+        .titulo {
+            border-bottom: thin solid #45609F;
+            padding-bottom: 10px;
+        }
+    }
+
+    .repaso {
+
+        h2 {
+            border-bottom: none !important;
+        }
+
+        .row {
+            background-color: var(--color-rrhh-secundario);
+            color: var(--color-rrhh-principal) !important;
+        }
+
+        .head {
+            border-bottom: #9fafd1 thin dashed;
+        }
+
+        h2::before {
+            content: "Conclusiones";
+        }
+
+        .numero {
+            color: #9fafd1;
+        }
+
+        .cierre {
+            border-top: #9fafd1 thin dashed;
+            background-color: #a9bbe0;
+        }
+
+        h3 {
+            color: var(--color-rrhh-principal) !important;
+        }
+    }
+
+
+    .bg-azul,
+    .bg-img-izq,
+    .cierre {
+        color: white;
+
+        h2,
+        h3,
+        h4,
+        h5,
+        b,
+        strong,
+        .call2action {
+            color: #FFF !important;
+        }
+    }
+
+    .cierre {
+        h4 {
+            margin-top: 20px !important;
+        }
+
+        .call2action {
+            font-weight: 400 !important;
+        }
+    }
+
+    .highlight {
+        color: #45609F;
+    }
+
+    .bg-img-izq {
+        background-color: #45609F;
+
+        .highlight {
+            color: white !important;
+        }
+    }
+
+    .importante {
+        background-color: var(--color-rrhh-secundario);
+        font-weight: 500;
+        color: var(--color-rrhh-principal) !important;
+
+        a {
+            color: var(--color-rrhh-acento2) !important;
+            text-decoration: underline !important;
+        }
+    }
+
+    .icono.fondo {
+        background-color: var(--color-rrhh-acento1) !important;
+    }
+
+    .icono.fondo::before {
+        filter: invert(100%);
+    }
+}
+
+@media (max-width: 1200px) {
+    .efrrhh {
+        p {
+            text-align: left !important;
+        }
+    }
+}

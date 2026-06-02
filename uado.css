@@ -1,0 +1,39 @@
+.uado {
+    .bg-oscuro {
+        background-color: var(--color-uado-fondo);
+        color: white !important;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-weight: 200 !important;
+        color: white !important;
+
+        b {
+            font-weight: 200;
+            color: var(--color-mado-rojo);
+        }
+    }
+
+    small {
+        color: var(--color-uado-principal);
+    }
+}
+
+.uado.bg-oscuro {
+    background-color: var(--color-uado-fondo);
+    color: white !important;
+    margin-top: 0;
+    margin-bottom: 0;
+
+    .break {
+        border-color: var(--color-uado-principal) !important;
+    }
+
+    a {
+        color: var(--color-uado-principal) !important;
+        text-decoration: underline;
+    }
+}

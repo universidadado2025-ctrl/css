@@ -1,0 +1,30 @@
+.nrle {
+    .head {
+        margin-bottom: 50px;
+    }
+
+    .list {
+        padding: 40px;
+        color: white !important;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+
+        a {
+            color: white !important;
+        }
+
+        ol,
+        ul {
+            margin-bottom: 30px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .main {
+            font-size: x-large;
+            margin-bottom: 20px;
+        }
+    }
+}

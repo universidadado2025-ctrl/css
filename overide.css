@@ -1,0 +1,54 @@
+.carousel {
+
+    h3,
+    h4,
+    h5 {
+        color: white !important;
+    }
+}
+
+.format-tiles ul.tiles li:empty {
+    min-height: 12px;
+    visibility: visible !important;
+    border-top: 10px solid #fff0 !important;
+    border-bottom: 10px solid #fff0 !important;
+}
+
+#multi_section_tiles li:empty {
+    visibility: hidden !important;
+}
+
+
+.mobility {
+    text-transform: uppercase !important;
+    font-weight: 700;
+    color: #612267 !important;
+    white-space: nowrap !important;
+
+    b {
+        font-weight: 700;
+        color: #E1261B !important;
+    }
+}
+
+.bg-oscuro .mobility,
+.bg-azul .mobility,
+.bg-img-izq .mobility,
+.mado .tips .mobility,
+.warning .mobility,
+.warning .mobility b {
+    color: white !important;
+}
+
+.efrrhh .repaso .mobility b {
+    color: var(--color-mado-rojo);
+}
+
+.mado .warning .text a {
+    color: white !important;
+    text-decoration: underline !important;
+}
+
+.validar {
+    border: 4px solid red !important;
+}

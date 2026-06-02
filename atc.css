@@ -1,0 +1,159 @@
+.atc {
+    .bg-oscuro {
+        background-color: #5e2366;
+        color: white !important;
+        border-radius: 30px;
+
+        .highlight,
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .logo_bg {
+        background-color: #5E2366;
+        width: 100%;
+        min-height: 300px;
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8424/mod_folder/content/0/ATC_negativo.png);
+        background-size: auto 90%;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-bottom: 60px;
+    }
+
+    h1.bg {
+        background-color: var(--color-mado-rojo);
+        color: white !important;
+        padding: 8px;
+        font-weight: 200;
+    }
+
+    h3.bg {
+        background-color: var(--color-mado-morado);
+        color: white !important;
+        font-weight: 400 !important;
+        font-size: xx-large;
+        padding: 20px;
+        padding-left: 20px !important;
+    }
+
+    .banner {
+        background-color: var(--color-mado-rojo);
+        color: white ! important;
+        padding: 0px;
+        margin-top: 60px;
+
+        .col-img {
+            margin: 0;
+            padding: 0;
+            min-height: 170px;
+            background-position: center center;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            background-image: url(https://universidad.mobilityado.com/pluginfile.php/3230/course/overviewfiles/16.jpg);
+        }
+
+        h3 {
+            font-weight: 400 !important;
+            font-size: xx-large;
+            margin: 30px 12px;
+            color: white !important
+        }
+    }
+
+    b,
+    .call2action {
+        color: var(--color-mado-rojo) !important;
+    }
+
+    .highlight {
+        color: var(--color-mado-morado) !important;
+    }
+}
+
+.atc.ahorrobus {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #0060A8 !important;
+    }
+
+    h1.bg {
+        background-color: #E76E01;
+        color: white !important;
+    }
+
+    h3.bg {
+        background-color: #0060A8;
+        color: white !important;
+    }
+
+    .call2action {
+        color: #E76E01 !important;
+    }
+
+    .highlight {
+        color: #0060A8 !important;
+    }
+
+    b {
+        color: #E76E01 !important;
+    }
+
+    .banner {
+        background-color: #0060A8;
+
+        .col-img {
+            background-image: var(--imagen-ahorrobus);
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            color: white !important;
+        }
+
+    }
+
+    .bg-oscuro {
+        background-color: #E76E01;
+        color: white !important;
+        padding: 30px 0px;
+        font-weight: 500;
+
+        p {
+            margin: 0px;
+        }
+
+        b {
+            color: white !important;
+        }
+
+        .highlight,
+        .call2action {
+            color: white !important;
+            font-weight: 200;
+        }
+    }
+
+    .tips {
+        background-color: #E76E01;
+        color: white !important;
+
+        .call2action {
+            color: white !important;
+        }
+    }
+
+    .tips::before {
+        background-image: url(https://universidad.mobilityado.com/pluginfile.php/8424/mod_folder/content/0/Ahorrobus/ahorrobus_idea.png);
+
+    }
+}
