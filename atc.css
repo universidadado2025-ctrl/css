@@ -1,4 +1,12 @@
 .atc {
+
+    h2,
+    h3,
+    h4,
+    h5 {
+        color: var(--color-mado-rojo);
+    }
+
     .bg-oscuro {
         background-color: #5e2366;
         color: white !important;
@@ -42,11 +50,11 @@
         color: white ! important;
         padding: 0px;
         margin-top: 60px;
+        min-height: 10px;
 
         .col-img {
             margin: 0;
             padding: 0;
-            min-height: 170px;
             background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -62,15 +70,24 @@
         }
     }
 
+    .bloque-outline {
+        border-radius: 25px;
+    }
+
     b,
     .call2action {
         color: var(--color-mado-rojo) !important;
     }
 
     .highlight {
-        color: var(--color-mado-morado) !important;
+        color: var(--color-mado-morado);
     }
 }
+
+
+
+
+
 
 .atc.ahorrobus {
 
