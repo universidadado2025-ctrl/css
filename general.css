@@ -1,4 +1,11 @@
 :root {
+    
+    @font-face {
+      font-family: "Rams";
+      src: url("./Fonts/Rams.otf") format("otf");
+    }
+
+    
     --color-uado-principal: #58A4B3;
     --color-uado-fondo: #1F6C80;
     --color-mado-rojo: #E1261B;
