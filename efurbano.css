@@ -1,6 +1,4 @@
 .efurbano {
-
-    font-family: "Rams";
     
     h1,
     h2,
@@ -209,11 +207,16 @@
         }
     }
 
-    .icono.fondo {
+    .icono::before,
+    .lista-iconos li::before{
+        filter: invert(67%) sepia(72%) saturate(3579%) hue-rotate(354deg) brightness(96%) contrast(103%);
+    }
+
+    /* .icono.fondo {
         background-color: #f78407 !important;
     }
 
     .icono.fondo::before {
         filter: invert(100%);
-    }
+    } */
 }

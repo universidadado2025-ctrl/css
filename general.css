@@ -20,25 +20,67 @@
 
 
     --icon-bus: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/bus.svg);
+    --icon-bus-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/bus_bg.svg);
+
     --icon-bici: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/bici.svg);
+    --icon-bici-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/bici_bg.svg);
+
     --icon-idea: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/idea.svg);
+    --icon-idea-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/idea_bg.svg);
+
     --icon-globotexto: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/dialogo.svg);
+    --icon-globotexto-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/dialogo_bg.svg);
+
     --icon-pin: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/pin.svg);
+    --icon-pin-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/pin_bg.svg);
+
     --icon-notas: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/notas.svg);
+    --icon-notas-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/notas_bg.svg);
+
     --icon-trole: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/trole.svg);
+    --icon-trole-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/trole_bg.svg);
+
     --icon-documento: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/documento.svg);
+    --icon-documento-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/documento_bg.svg);
+
     --icon-folder: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/folder.svg);
+    --icon-folder-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/folder_bg.svg);
+
     --icon-info: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/info.svg);
+    --icon-info-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/info_bg.svg);
+
     --icon-persona: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/persona.svg);
+    --icon-persona-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/persona_bg.svg);
+
     --icon-lupa: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/lupa.svg);
+    --icon-lupa-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/lupa_bg.svg);
+
     --icon-corazon: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/corazon.svg);
+    --icon-corazon-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/corazon_bg.svg);
+
     --icon-birrete: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/birrete.svg);
+    --icon-birrete-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/birrete_bg.svg);
+
     --icon-certificado: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/certificado.svg);
+    --icon-certificado-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/certificado_bg.svg);
+
     --icon-alerta: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/alert.svg);
+    --icon-alerta-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/alerta_bg.svg);
+
     --icon-reloj: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/reloj.svg);
+    --icon-reloj-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/reloj_bg.svg);
+
     --icon-target: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/target.svg);
+    --icon-target-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/target_bg.svg);
+
     --icon-check: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/check.svg);
+    --icon-check-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/check_bg.svg);
+
     --icon-tache: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/tache.svg);
+    --icon-tache-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/tache_bg.svg);
+
+    --icon-dinero: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/dinero.svg);
+    --icon-dinero-bg: url(https://universidad.mobilityado.com/pluginfile.php/55317/mod_folder/content/0/iconos/dinero_bg.svg);
 
     --imagen-ahorrobus: url(https://universidad.mobilityado.com/pluginfile.php/8424/mod_folder/content/0/Ahorrobus/ahorrobus01.png);
 }
@@ -46,6 +88,17 @@
 
 
 
+    
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.highlight,
+.call2action {
+    font-family: "Rams" !important;
+}
 
 
 
@@ -607,11 +660,11 @@ ul.list-group {
 
 }
 
-.table {
-    /* margin: 40px 0;*/
-    /* width: 100%;*/
-    /* border-collapse: collapse;*/
-}
+/* .table {
+    margin: 40px 0;
+    width: 100%;
+    border-collapse: collapse;
+} */
 
 .card .card-header {
 
@@ -724,134 +777,368 @@ h5.bg {
     margin-right: 5px;
 }
 
-.icono::before {
-    display: inline-block;
-    content: "";
-    width: 28px;
-    height: 28px;
-    margin-right: 8px;
-    vertical-align: middle;
+
+.lista-iconos {
+    padding-left: 0;
+    position: relative;
 }
 
-.icono.bus::before,
-.lista-iconos li.bus {
+.lista-iconos li {
+    list-style: none;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding-left: 45px;
+}
+
+
+.icono::before,
+.lista-iconos li::before{
+    display: inline-block;
+    content: "";
+    vertical-align: middle;
+    filter: invert(17%) sepia(66%) saturate(1505%) hue-rotate(265deg) brightness(90%) contrast(97%);
+    background-image: var(--icon);
+}
+
+.icono::before{
+    width: 28px;
+    height: 28px;
+}
+
+.lista-iconos li::before {
+    display: inline-block;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 27px;
+}
+
+.lista-iconos.fondo li::before {
+    width: 30px;
+    height: 30px;
+    left: 20px;
+}
+
+
+
+/* .icono.bus::before,
+.lista-iconos li.bus::before {
     background-image: var(--icon-bus);
 }
 
+.icono.fondo.bus::before,
+.lista-iconos.fondo li.bus::before {
+    background-image: var(--icon-bus-bg);
+}
+
 .icono.bici::before,
-.lista-iconos li.bici {
+.lista-iconos li.bici::before {
     background-image: var(--icon-bici);
 }
 
 .icono.idea::before,
-.lista-iconos li.idea {
+.lista-iconos li.idea::before {
     background-image: var(--icon-idea);
 }
 
 .icono.globotexto::before,
-.lista-iconos li.globotexto {
+.lista-iconos li.globotexto::before {
     background-image: var(--icon-globotexto);
 }
 
 .icono.pin::before,
-.lista-iconos li.pin {
+.lista-iconos li.pin::before {
     background-image: var(--icon-pin);
 }
 
 .icono.notas::before,
-.lista-iconos li.notas {
+.lista-iconos li.notas::before {
     background-image: var(--icon-notas);
 }
 
 .icono.trole::before,
-.lista-iconos li.trole {
+.lista-iconos li.trole::before {
     background-image: var(--icon-trole);
 }
 
 .icono.documento::before,
-.lista-iconos li.documento {
+.lista-iconos li.documento::before {
     background-image: var(--icon-documento);
 }
 
 .icono.folder::before,
-.lista-iconos li.folder {
+.lista-iconos li.folder::before {
     background-image: var(--icon-folder);
 }
 
 .icono.info::before,
-.lista-iconos li.info {
+.lista-iconos li.info::before {
     background-image: var(--icon-info);
 }
 
 .icono.persona::before,
-.lista-iconos li.persona {
+.lista-iconos li.persona::before {
     background-image: var(--icon-persona);
 }
 
 .icono.lupa::before,
-.lista-iconos li.lupa {
+.lista-iconos li.lupa::before {
     background-image: var(--icon-lupa);
 }
 
 .icono.corazon::before,
-.lista-iconos li.corazon {
+.lista-iconos li.corazon::before {
     background-image: var(--icon-corazon);
 }
 
 .icono.birrete::before,
-.lista-iconos li.birrete {
+.lista-iconos li.birrete::before {
     background-image: var(--icon-birrete);
 }
 
 .icono.certificado::before,
-.lista-iconos li.certificado {
+.lista-iconos li.certificado::before {
     background-image: var(--icon-certificado);
 }
 
 .icono.alerta::before,
-.lista-iconos li.alerta {
+.lista-iconos li.alerta::before {
     background-image: var(--icon-alerta);
 }
 
 .icono.reloj::before,
-.lista-iconos li.reloj {
+.lista-iconos li.reloj::before {
     background-image: var(--icon-reloj);
 }
 
 .icono.target::before,
-.lista-iconos li.target {
+.lista-iconos li.target::before {
     background-image: var(--icon-target);
 }
 
 
 .icono.check::before,
-.lista-iconos li.check {
+.lista-iconos li.check::before {
     background-image: var(--icon-check);
 }
 
 
 .icono.tache::before,
-.lista-iconos li.tache {
+.lista-iconos li.tache::before {
     background-image: var(--icon-tache);
 }
 
+.icono.dinero::before,
+.lista-iconos li.dinero::before {
+    background-image: var(--icon-dinero); 
+}
+*/
 
-.icono.fondo {
-    background-color: rgb(90, 90, 90);
+
+/* Default icons */
+
+.bus {
+    --icon: var(--icon-bus);
+}
+
+.bici {
+    --icon: var(--icon-bici);
+}
+
+.pin {
+    --icon: var(--icon-pin);
+}
+
+.trole {
+    --icon: var(--icon-trole);
+}
+
+.folder {
+    --icon: var(--icon-folder);
+}
+
+.persona {
+    --icon: var(--icon-persona);
+}
+
+.corazon {
+    --icon: var(--icon-corazon);
+}
+
+.certificado {
+    --icon: var(--icon-certificado);
+}
+
+.reloj {
+    --icon: var(--icon-reloj);
+}
+
+.idea {
+    --icon: var(--icon-idea);
+}
+
+.dinero {
+    --icon: var(--icon-dinero);
+}
+
+.tache {
+    --icon: var(--icon-tache);
+}
+
+.check {
+    --icon: var(--icon-check);
+}
+
+.notas {
+    --icon: var(--icon-notas);
+}
+
+.documento {
+    --icon: var(--icon-documento);
+}
+
+.info {
+    --icon: var(--icon-info);
+}
+
+.lupa {
+    --icon: var(--icon-lupa);
+}
+
+.birrete {
+    --icon: var(--icon-birrete);
+}
+
+.alerta {
+    --icon: var(--icon-alerta);
+}
+
+.target {
+    --icon: var(--icon-target);
+}
+
+.globotexto {
+    --icon: var(--icon-globotexto);
+}
+
+
+
+
+/* Background variants */
+
+.bus.fondo,
+.fondo .bus {
+    --icon: var(--icon-bus-bg);
+}
+
+.bici.fondo,
+.fondo .bici {
+    --icon: var(--icon-bici-bg);
+}
+
+.pin.fondo,
+.fondo .pin {
+    --icon: var(--icon-pin-bg);
+}
+
+.trole.fondo,
+.fondo .trole {
+    --icon: var(--icon-trole-bg);
+}
+
+.folder.fondo,
+.fondo .folder {
+    --icon: var(--icon-folder-bg);
+}
+
+.persona.fondo,
+.fondo .persona {
+    --icon: var(--icon-persona-bg);
+}
+
+.corazon.fondo,
+.fondo .corazon {
+    --icon: var(--icon-corazon-bg);
+}
+
+.certificado.fondo,
+.fondo .certificado {
+    --icon: var(--icon-certificado-bg);
+}
+
+.reloj.fondo,
+.fondo .reloj {
+    --icon: var(--icon-reloj-bg);
+}
+
+.idea.fondo,
+.fondo .idea {
+    --icon: var(--icon-idea-bg);
+}
+
+.dinero.fondo,
+.fondo .dinero {
+    --icon: var(--icon-dinero-bg);
+}
+
+.tache.fondo,
+.fondo .tache {
+    --icon: var(--icon-tache-bg);
+}
+
+.check.fondo,
+.fondo .check {
+    --icon: var(--icon-check-bg);
+}
+
+.notas.fondo,
+.fondo .notas {
+    --icon: var(--icon-notas-bg);
+}
+
+.documento.fondo,
+.fondo .documento {
+    --icon: var(--icon-documento-bg);
+}
+
+.info.fondo,
+.fondo .info {
+    --icon: var(--icon-info-bg);
+}
+
+.lupa.fondo,
+.fondo .lupa {
+    --icon: var(--icon-lupa-bg);
+}
+
+.birrete.fondo,
+.fondo .birrete {
+    --icon: var(--icon-birrete-bg);
+}
+
+.alerta.fondo,
+.fondo .alerta {
+    --icon: var(--icon-alerta-bg);
+}
+
+.target.fondo,
+.fondo .target {
+    --icon: var(--icon-target-bg);
+}
+
+.globotexto.fondo,
+.fondo .globotexto {
+    --icon: var(--icon-globotexto-bg);
+}
+
+
+
+
+ .icono.fondo::before {
     width: 40px;
     height: 40px;
     display: inline-block;
-    overflow: hidden;
-    border-radius: 20px;
     vertical-align: middle;
-}
-
-.icono.fondo::before {
-    width: 26px;
-    height: 26px;
-    margin-top: 7px;
-    margin-left: 7px;
-    filter: invert(100%);
 }
 
 .icono.large::before {
@@ -873,18 +1160,4 @@ h5.bg {
 
 .icono.blanco::before {
     filter: invert(100%);
-}
-
-.lista-iconos {
-    padding-left: 0;
-}
-
-.lista-iconos li {
-    list-style: none;
-    margin-left: 15px;
-    margin-bottom: 15px;
-    padding-left: 30px;
-    background-position: left top 3px;
-    background-repeat: no-repeat;
-    background-size: 20px 20px;
 }

@@ -26,6 +26,7 @@
         background-size: auto 90%;
         background-repeat: no-repeat;
         background-position: center;
+        margin: 0px;
         margin-bottom: 60px;
     }
 
@@ -36,7 +37,8 @@
         font-weight: 200;
     }
 
-    h3.bg {
+    h3.bg,
+    h4.bg {
         background-color: var(--color-mado-morado);
         color: white !important;
         font-weight: 400 !important;
@@ -58,6 +60,7 @@
             background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;
+            min-height: 180px;
 
             background-image: url(https://universidad.mobilityado.com/pluginfile.php/3230/course/overviewfiles/16.jpg);
         }

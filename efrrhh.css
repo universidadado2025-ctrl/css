@@ -331,13 +331,13 @@
         }
     }
 
-    .icono.fondo {
+    /* .icono.fondo {
         background-color: var(--color-rrhh-acento1) !important;
     }
 
     .icono.fondo::before {
         filter: invert(100%);
-    }
+    } */
 }
 
 @media (max-width: 1200px) {
